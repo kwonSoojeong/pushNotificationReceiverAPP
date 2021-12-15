@@ -1,0 +1,33 @@
+{
+  "message": {
+    "token": "fKHF0f0xTI2DnEgn9-EWD1:APA91bFBQKHZiQJxIqJs2zDaQzens2rQ30a9654i_jOqnaTVpY0f9KSA3MyGafg1fNn9GkeJ3IS6VyGJaETg1_1AEk6OYRuPcYUxzRwEow64JZpM05Hvg6abk7SIxWrvoW-cNMs4UUJb",
+    "data": {
+      "title": "Test title",
+      "message": "Test message",
+      "type": "CUSTOM"
+    }
+  }
+}
+
+
+{
+  "message": {
+    "token": "fKHF0f0xTI2DnEgn9-EWD1:APA91bFBQKHZiQJxIqJs2zDaQzens2rQ30a9654i_jOqnaTVpY0f9KSA3MyGafg1fNn9GkeJ3IS6VyGJaETg1_1AEk6OYRuPcYUxzRwEow64JZpM05Hvg6abk7SIxWrvoW-cNMs4UUJb",
+    "data": {
+      "title": "Test title",
+      "message": "Test message",
+      "type": "NORMAL"
+    }
+  }
+}
+
+{
+  "message": {
+    "token": "fKHF0f0xTI2DnEgn9-EWD1:APA91bFBQKHZiQJxIqJs2zDaQzens2rQ30a9654i_jOqnaTVpY0f9KSA3MyGafg1fNn9GkeJ3IS6VyGJaETg1_1AEk6OYRuPcYUxzRwEow64JZpM05Hvg6abk7SIxWrvoW-cNMs4UUJb",
+    "data": {
+      "title": "Test title",
+      "message": "Test message",
+      "type": "EXPANDABLE"
+    }
+  }
+}
