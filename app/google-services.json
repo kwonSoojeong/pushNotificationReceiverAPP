@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356456604749",
+    "project_id": "pushtest-2ed26",
+    "storage_bucket": "pushtest-2ed26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356456604749:android:63a4841d5d886045a96804",
+        "android_client_info": {
+          "package_name": "com.crystal.pushnotificationreceiverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356456604749-bvtrdjtr1bqpb1ha3hup2ccge8j8v9ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnhgCqO08vrFOEdF1CKlQEpCFnsS9M0pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356456604749-bvtrdjtr1bqpb1ha3hup2ccge8j8v9ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
